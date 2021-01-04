@@ -1,3 +1,4 @@
 # probaszmd
-probalom a githubot
+probalom a githubot.
 Elso modositas.
+Masodik modositas.
